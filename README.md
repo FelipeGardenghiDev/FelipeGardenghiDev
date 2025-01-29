@@ -2,7 +2,6 @@
 
 - Data Science Student at the UNIVESP.
 - Passionate about programming, machine learning, data science and full stack development.
-- Member of a competition team, EDRA-UnB ❤️, which develops autonomous drones. In it I work mainly with computer vision.
 - Intern at Nova Smar S/A | T.I.C. 💙🚀
 
 ## Languages e Tools 💻
