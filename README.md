@@ -1,16 +1,20 @@
-## Hi there 👋
+### ✨ Hello there, I'm Felipe! ✨
 
-<!--
-**FelipeGardenghiDev/FelipeGardenghiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Data Science Student at the UNIVESP.
+- Passionate about programming, machine learning, data science and full stack development.
+- Member of a competition team, EDRA-UnB ❤️, which develops autonomous drones. In it I work mainly with computer vision.
+- Intern at Nova Smar S/A | T.I.C. 💙🚀
 
-Here are some ideas to get you started:
+## Languages e Tools 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline">
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</div><br/>
+
+## Contact me 📫
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipegardenghi/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipegardenghi.dev/)
+[![Gmail](https://img.shields.io/badge/-gabrielleribeiro2010@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gabrielleribeiro2010@gmail.com)](mailto:felipegardenghi@outlook.com)
