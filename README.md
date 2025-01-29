@@ -38,5 +38,5 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=githubpages&logoColor=white)](https://felipegardenghidev.github.io/portfolio/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipegardenghi.dev/)
 [![Gmail](https://img.shields.io/badge/-felipegardenghi@outlook.com-E42E2E?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:felipegardenghi@outlook.com)](mailto:felipegardenghi@outlook.com)
-![Twitch Status](https://img.shields.io/twitch/status/felipegardenghi?style=flat&link=https%3A%2F%2Ftwitch.tv%2Ffelipegardenghi)
+![Twitch Status](https://img.shields.io/twitch/status/felipegardenghi?style=flat&link=https%3A%2F%2Ftwitch.tv%2Ffelipegardenghi)](https://www.twitch.tv/felipegardenghi/)
 
