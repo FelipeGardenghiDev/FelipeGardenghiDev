@@ -13,6 +13,18 @@
   <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
+## GitHub Stats ⚡
+
+<div>
+  <a href="https://github.com/FelipeGardenghiDev">
+  <center>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeGardenghiDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="centered image">
+  </center>
+  <center>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGardenghiDev&layout=compact&langs_count=7&theme=radical"/>
+  </center>
+</div>
+
 ## Contact me 📫
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipegardenghi/)
