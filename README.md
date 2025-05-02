@@ -50,5 +50,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipegardenghi/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=githubpages&logoColor=white)](https://felipegardenghidev.github.io/portfolio/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipegardenghi.dev/)
-[![Email](https://img.shields.io/badge/-felipegardenghi@outlook.com-E42E2E?style=for-the-badge&logo=mailboxdotorg&logoColor=white&link=mailto:felipegg.dev@gmail.com)](mailto:felipegg.dev@gmail.com)
+[![Email](https://img.shields.io/badge/-felipegg.dev@gmail.com-E42E2E?style=for-the-badge&logo=mailboxdotorg&logoColor=white&link=mailto:felipegg.dev@gmail.com)](mailto:felipegg.dev@gmail.com)
 
