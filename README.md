@@ -31,6 +31,10 @@
   <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img align="center" alt="vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img align="center" alt="protonvpn" src="https://img.shields.io/badge/ProtonVPN-66DEB1?style=for-the-badge&logo=protonvpn&logoColor=white" />
+  <img align="center" alt="libreoffice" src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=libreoffice&logoColor=white" />
+  <img align="center" alt="gimp" src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
+  <img align="center" alt="inkscape" src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white" />
+  <img align="center" alt="audacity" src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white" />
   <img align="center" alt="obsstudio" src="https://img.shields.io/badge/ObsStudio-302E31?style=for-the-badge&logo=obsstudio&logoColor=white" />
   <img align="center" alt="discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />  
   <img align="center" alt="reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />  
