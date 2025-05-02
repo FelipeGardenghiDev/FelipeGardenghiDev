@@ -2,7 +2,7 @@
 
 - Data Science Student at the UNIVESP.
 - Passionate about programming, machine learning, data science and full stack development.
-- Intern at Nova Smar S/A | T.I.C. 💙🚀
+- Intern at Nova Smar S/A | I.T. 💙🚀
 
 ## Languages 💻
 
@@ -13,8 +13,6 @@
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" />
-
-  
 </div><br/>
 
 ## Tools 🛠️
@@ -56,4 +54,3 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=githubpages&logoColor=white)](https://felipegardenghidev.github.io/portfolio/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipegardenghi.dev/)
 [![Email](https://img.shields.io/badge/-felipegg.dev@gmail.com-E42E2E?style=for-the-badge&logo=mailboxdotorg&logoColor=white&link=mailto:felipegg.dev@gmail.com)](mailto:felipegg.dev@gmail.com)
-
