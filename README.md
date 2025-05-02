@@ -2,7 +2,7 @@
 
 - Data Science Student at the UNIVESP.
 - Passionate about programming, machine learning, data science and full stack development.
-- Intern at Nova Smar S/A | I.C.T. 💙🚀
+- Intern at Nova Smar S/A | ICT 💙🚀
 
 ## Languages 💻
 
