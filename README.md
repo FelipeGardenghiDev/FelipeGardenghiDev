@@ -1,58 +1,109 @@
-### ✨ Hello there, I'm Felipe! ✨
+<div align="center">
 
-- Data Science Student at the UNIVESP.
-- Passionate about programming, machine learning, data science and full stack development.
-- Intern at Nova Smar S/A | ICT 💙🚀
+# Felipe Gardenghi
+### Desenvolvedor Full-Stack | Integração de Sistemas & Ciência de Dados
 
-## Languages 💻
+[![Portfólio](https://img.shields.io/badge/🌐_Portfólio_Online-felipegardenghidev.github.io-6366f1?style=for-the-badge)](https://felipegardenghidev.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipegardenghi/)
+[![Currículo PDF](https://img.shields.io/badge/📄_Download_CV-PDF-059669?style=for-the-badge)](https://felipegardenghidev.github.io/portfolio/resume/felipe-gardenghi-cv.pdf)
+[![E-mail](https://img.shields.io/badge/E--mail-felipegg.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipegg.dev@gmail.com)
 
-<div style="display: inline">
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="c" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-1677C7?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" />
-  <img align="center" alt="sass" src="https://img.shields.io/badge/SASS-C76495?style=for-the-badge&logo=sass&logoColor=white" />
-</div><br/>
+<br/>
 
-## Tools 🛠️
+> *"Desenvolvo aplicações web robustas, automatizo rotinas de banco de dados e integro sistemas legados a arquiteturas modernas — combinando rigor técnico com visão pragmática de negócio."*
 
-<div style="display: inline">
-  <img align="center" alt="next.js" src="https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-53C1DE?style=for-the-badge&logo=react&logoColor=white" />
-  <img align="center" alt="node.js" src="https://img.shields.io/badge/Node.JS-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img align="center" alt="tailwind css" src="https://img.shields.io/badge/Tailwind_CSS-00ACC1?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img align="center" alt="composer" src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white" />
-  <img align="center" alt="postgresql" src="https://img.shields.io/badge/Postgresql-0277BD?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img align="center" alt="git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img align="center" alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img align="center" alt="vite" src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-</div><br/>
-
-## GitHub Stats ⚡
-
-<div>
-  <a href="https://github.com/FelipeGardenghiDev">
-  <center>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeGardenghiDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="centered image">
-  </center>
-  <center>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGardenghiDev&layout=compact&langs_count=7&theme=radical"/>
-  </center>
 </div>
 
-## Contact me 📫
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipegardenghi/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=githubpages&logoColor=white)](https://felipegardenghidev.github.io/portfolio/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipegardenghi.dev/)
-[![Email](https://img.shields.io/badge/-felipegg.dev@gmail.com-E42E2E?style=for-the-badge&logo=mailboxdotorg&logoColor=white&link=mailto:felipegg.dev@gmail.com)](mailto:felipegg.dev@gmail.com)
+### 👨‍💻 Sobre Mim & Trajetória Profissional
 
+- 💼 **Atuação Atual:** Desenvolvedor / Estagiário de T.I. na **Nova Smar S/A**, onde desenvolvi e mantenho em produção um **Dashboard Financeiro e de Automação ERP** (PHP, Oracle PL/SQL, TOTVS Protheus, MySQL), além de criar automações em banco de dados e relatórios de estoque essenciais para o inventário corporativo.
+- 🎓 **Formação Acadêmica:** Bacharelado em **Ciência de Dados** pela **UNIVESP** (*Universidade Virtual do Estado de São Paulo*).
+- 📈 **Bagagem de Negócio:** 5 anos de experiência prévia como empreendedor no e-commerce (**Mercadolíder** em menos de 1 ano), liderando gestão operacional, análise de dados de vendas e relacionamento com clientes. Essa vivência me permite criar software focado em resolver dores reais de negócio, e não apenas escrever código.
+- 🌍 **Idiomas:** Português (Nativo) · Inglês (Intermediário Técnico B2) · Alemão (Básico A1).
+
+---
+
+### 🚀 Projetos em Destaque
+
+| Projeto | Descrição & Destaques Técnicos | Tecnologias | Links |
+| :--- | :--- | :--- | :---: |
+| 🏢 **Dashboard Financeiro & ERP** | **Case Corporativo em Produção:** Sistema web intranet multiusuário e auditável integrado ao ERP TOTVS Protheus e Oracle DB. Substituiu controles manuais por fluxo de caixa automatizado e relatórios em tempo real para tomada de decisão da gerência e diretoria. | `PHP` `Oracle PL/SQL` `TOTVS Protheus` `MySQL` `JavaScript` | 🔒 *Código Proprietário* |
+| 🎼 **Orchestra Planner** | Engine de gerenciamento e orquestração de tarefas complexas com dependências dinâmicas, balanceamento de carga e integração de IA. Desenvolvido sob Arquitetura Hexagonal (Ports & Adapters) e determinismo arquitetural. | `Python 3.12` `FastAPI` `PostgreSQL 16` `Docker` `uv` | [Repositório](https://github.com/FelipeGardenghiDev/orchestra-planner) |
+| ⚡ **Aggrandize Planner** | Interface web moderna e de alta usabilidade para planejamento de metas e produtividade, com tipagem estrita, performance otimizada e dados reativos. | `TypeScript` `React` `Next.js` `Tailwind CSS` `Vercel` | [Demo](https://aggrandize-planner-frontend.vercel.app) · [Código](https://github.com/FelipeGardenghiDev/aggrandize-planner-frontend) |
+| 🌐 **Portfólio Pessoal de Alta Performance** | Portfólio acessível (WCAG 2.1 AA) e com carregamento instantâneo, construído em Vanilla JS/CSS com Design System próprio, suporte a temas Dark/Light e pipeline CI/CD via GitHub Actions. | `Vanilla JS (ES6+)` `CSS3 Design System` `Vite` `GitHub Actions` | [Live Site](https://felipegardenghidev.github.io/portfolio/) · [Código](https://github.com/FelipeGardenghiDev/portfolio) |
+| 🎸 **Website Banda Revanche** | Website institucional e promocional desenvolvido para cliente real, incluindo agenda de eventos, player de mídias e design 100% responsivo. | `HTML5` `CSS3` `JavaScript` `GitHub Pages` | [Repositório](https://github.com/FelipeGardenghiDev/revanche-website) |
+
+---
+
+### 🛠️ Stack Tecnológica & Habilidades
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚙️ Backend & Integrações</h4>
+      <div>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" alt="REST APIs" />
+        <img src="https://img.shields.io/badge/TOTVS_Protheus-003366?style=flat-square" alt="TOTVS Protheus" />
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎨 Frontend</h4>
+      <div>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3_Vanilla-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🗄️ Banco de Dados</h4>
+      <div>
+        <img src="https://img.shields.io/badge/Oracle_PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle PL/SQL" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Triggers_%26_Procedures-333333?style=flat-square" alt="Triggers & Procedures" />
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h4>☁️ DevOps & Ferramentas</h4>
+      <div>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FelipeGardenghiDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGardenghiDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens mais utilizadas" />
+</div>
+
+---
+
+<div align="center">
+  
+**📬 Vamos conversar sobre oportunidades e novos projetos?**
+
+[LinkedIn](https://www.linkedin.com/in/felipegardenghi/) • [Portfólio Oficial](https://felipegardenghidev.github.io/portfolio/) • [felipegg.dev@gmail.com](mailto:felipegg.dev@gmail.com)
+
+</div>
