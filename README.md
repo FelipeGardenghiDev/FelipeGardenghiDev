@@ -18,22 +18,22 @@
 
 ### 👨‍💻 Sobre Mim & Trajetória Profissional
 
-- 💼 **Atuação Atual:** Desenvolvedor / Estagiário de T.I. na **Nova Smar S/A**, onde desenvolvi e mantenho em produção um **Dashboard Financeiro e de Automação ERP** (PHP, Oracle PL/SQL, TOTVS Protheus, MySQL), além de criar automações em banco de dados e relatórios de estoque essenciais para o inventário corporativo.
+- 💼 **Atuação Atual:** Desenvolvedor / Estagiário de T.I. na **Nova Smar S/A**, onde desenvolvi e mantenho em produção um **Dashboard Financeiro e de Automação ERP** (PHP, Oracle PL/SQL, TOTVS Protheus, MySQL), além de automações em banco de dados e relatórios de estoque essenciais para o inventário corporativo.
 - 🎓 **Formação Acadêmica:** Bacharelado em **Ciência de Dados** pela **UNIVESP** (*Universidade Virtual do Estado de São Paulo*).
 - 📈 **Bagagem de Negócio:** 5 anos de experiência prévia como empreendedor no e-commerce (**Mercadolíder** em menos de 1 ano), liderando gestão operacional, análise de dados de vendas e relacionamento com clientes. Essa vivência me permite criar software focado em resolver dores reais de negócio, e não apenas escrever código.
 - 🌍 **Idiomas:** Português (Nativo) · Inglês (Intermediário Técnico B2) · Alemão (Básico A1).
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 Projetos Públicos & Cases em Destaque
 
 | Projeto | Descrição & Destaques Técnicos | Tecnologias | Links |
 | :--- | :--- | :--- | :---: |
-| 🏢 **Dashboard Financeiro & ERP** | **Case Corporativo em Produção:** Sistema web intranet multiusuário e auditável integrado ao ERP TOTVS Protheus e Oracle DB. Substituiu controles manuais por fluxo de caixa automatizado e relatórios em tempo real para tomada de decisão da gerência e diretoria. | `PHP` `Oracle PL/SQL` `TOTVS Protheus` `MySQL` `JavaScript` | 🔒 *Código Proprietário* |
-| 🎼 **Orchestra Planner** | Engine de gerenciamento e orquestração de tarefas complexas com dependências dinâmicas, balanceamento de carga e integração de IA. Desenvolvido sob Arquitetura Hexagonal (Ports & Adapters) e determinismo arquitetural. | `Python 3.12` `FastAPI` `PostgreSQL 16` `Docker` `uv` | [Repositório](https://github.com/FelipeGardenghiDev/orchestra-planner) |
-| ⚡ **Aggrandize Planner** | Interface web moderna e de alta usabilidade para planejamento de metas e produtividade, com tipagem estrita, performance otimizada e dados reativos. | `TypeScript` `React` `Next.js` `Tailwind CSS` `Vercel` | [Demo](https://aggrandize-planner-frontend.vercel.app) · [Código](https://github.com/FelipeGardenghiDev/aggrandize-planner-frontend) |
-| 🌐 **Portfólio Pessoal de Alta Performance** | Portfólio acessível (WCAG 2.1 AA) e com carregamento instantâneo, construído em Vanilla JS/CSS com Design System próprio, suporte a temas Dark/Light e pipeline CI/CD via GitHub Actions. | `Vanilla JS (ES6+)` `CSS3 Design System` `Vite` `GitHub Actions` | [Live Site](https://felipegardenghidev.github.io/portfolio/) · [Código](https://github.com/FelipeGardenghiDev/portfolio) |
+| 🏢 **Dashboard Financeiro & ERP** | **Case Corporativo em Produção:** Sistema web intranet multiusuário e auditável integrado ao ERP TOTVS Protheus e Oracle DB. Substituiu controles manuais por fluxo de caixa automatizado e relatórios em tempo real para tomada de decisão da diretoria e acionistas. | `PHP` `Oracle PL/SQL` `TOTVS Protheus` `MySQL` `JavaScript` | 🔒 *Código Proprietário (Nova Smar S/A)* |
+| ⚡ **Aggrandize Planner** | Interface web moderna e de alta usabilidade para planejamento de metas e produtividade, estruturada em Next.js com TypeScript, dados mockados reativos e deploy contínuo na Vercel. | `TypeScript` `Next.js` `React` `Tailwind CSS` `Vercel` | [Demo](https://aggrandize-planner-frontend.vercel.app) · [Código](https://github.com/FelipeGardenghiDev/aggrandize-planner-frontend) |
+| 🌐 **Portfólio Pessoal de Alta Performance** | Portfólio acessível (WCAG 2.1 AA) e com carregamento instantâneo, construído em Vanilla JS/CSS com Design System próprio, suporte a temas Dark/Light e pipeline CI/CD via GitHub Actions. | `JavaScript (ES6+)` `CSS3 Design System` `Vite` `GitHub Actions` | [Live Site](https://felipegardenghidev.github.io/portfolio/) · [Código](https://github.com/FelipeGardenghiDev/portfolio) |
 | 🎸 **Website Banda Revanche** | Website institucional e promocional desenvolvido para cliente real, incluindo agenda de eventos, player de mídias e design 100% responsivo. | `HTML5` `CSS3` `JavaScript` `GitHub Pages` | [Repositório](https://github.com/FelipeGardenghiDev/revanche-website) |
+| 📊 **Feeagro Data Dashboard** | Dashboard interativo para análise e visualização de indicadores do setor agrícola, integrando conceitos de Ciência de Dados e visualização analítica web. | `TypeScript` `JavaScript` `CSS3` `Data Visualization` | [Repositório](https://github.com/FelipeGardenghiDev/feeagro-dashboard) |
 
 ---
 
@@ -46,7 +46,6 @@
       <div>
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
         <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" alt="REST APIs" />
         <img src="https://img.shields.io/badge/TOTVS_Protheus-003366?style=flat-square" alt="TOTVS Protheus" />
@@ -94,8 +93,14 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=FelipeGardenghiDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeGardenghiDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens mais utilizadas" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FelipeGardenghiDev&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub de Felipe Gardenghi" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FelipeGardenghiDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens mais utilizadas" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=FelipeGardenghiDev&theme=tokyonight&hide_border=true" alt="Sequência de Contribuições no GitHub" />
 </div>
 
 ---
