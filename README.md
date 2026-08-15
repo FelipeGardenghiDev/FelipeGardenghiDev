@@ -32,7 +32,7 @@
 | 🏢 **Dashboard Financeiro & ERP** | **Case Corporativo em Produção:** Sistema web intranet multiusuário e auditável integrado ao ERP TOTVS Protheus e Oracle DB. Substituiu controles manuais por fluxo de caixa automatizado e relatórios em tempo real para tomada de decisão da diretoria e acionistas. | `PHP` `Oracle PL/SQL` `TOTVS Protheus` `MySQL` `JavaScript` | 🔒 *Código Proprietário (Nova Smar S/A)* |
 | ⚡ **Aggrandize Planner** | Interface web moderna e de alta usabilidade para planejamento de metas e produtividade, estruturada em Next.js com TypeScript, dados mockados reativos e deploy contínuo na Vercel. | `TypeScript` `Next.js` `React` `Tailwind CSS` `Vercel` | [Demo](https://aggrandize-planner-frontend.vercel.app) · [Código](https://github.com/FelipeGardenghiDev/aggrandize-planner-frontend) |
 | 🌐 **Portfólio Pessoal de Alta Performance** | Portfólio acessível (WCAG 2.1 AA) e com carregamento instantâneo, construído em Vanilla JS/CSS com Design System próprio, suporte a temas Dark/Light e pipeline CI/CD via GitHub Actions. | `JavaScript (ES6+)` `CSS3 Design System` `Vite` `GitHub Actions` | [Live Site](https://felipegardenghidev.github.io/portfolio/) · [Código](https://github.com/FelipeGardenghiDev/portfolio) |
-| 🎸 **Website Banda Revanche** | Website institucional e promocional desenvolvido para cliente real, incluindo agenda de eventos, player de mídias e design 100% responsivo. | `HTML5` `CSS3` `JavaScript` `GitHub Pages` | [Repositório](https://github.com/FelipeGardenghiDev/revanche-website) |
+| 🎸 **Website Banda Revanche** | Website institucional e promocional completo desenvolvido para cliente real, com identidade visual personalizada, agenda de eventos, player de mídias e 100% responsivo. | `HTML5` `CSS3` `JavaScript` `Design Responsivo` | [Website](https://www.bandarevanche.com.br) · [Código](https://github.com/FelipeGardenghiDev/revanche-website) |
 | 📊 **Feeagro Data Dashboard** | Dashboard interativo para análise e visualização de indicadores do setor agrícola, integrando conceitos de Ciência de Dados e visualização analítica web. | `TypeScript` `JavaScript` `CSS3` `Data Visualization` | [Repositório](https://github.com/FelipeGardenghiDev/feeagro-dashboard) |
 
 ---
@@ -87,21 +87,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=FelipeGardenghiDev&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub de Felipe Gardenghi" />
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=FelipeGardenghiDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens mais utilizadas" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=FelipeGardenghiDev&theme=tokyonight&hide_border=true" alt="Sequência de Contribuições no GitHub" />
-</div>
 
 ---
 
