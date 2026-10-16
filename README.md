@@ -18,10 +18,10 @@
 
 ### 👨‍💻 Sobre Mim & Trajetória Profissional
 
-- 💼 **Atuação Corporativa Atual:** Desenvolvedor / Estagiário de T.I. na **Nova Smar S/A**, onde desenvolvi e mantenho em produção um **Dashboard Financeiro e de Automação ERP** (PHP, Oracle PL/SQL, TOTVS Protheus, MySQL), além de triggers/procedures para conciliação contábil e relatórios de estoque que viabilizaram a conclusão do inventário corporativo em tempo recorde em 2025.
+- 💼 **Atuação Corporativa Atual:** Desenvolvedor / Estagiário de T.I. na **Nova Smar S/A**, onde desenvolvi e mantenho em produção um **Dashboard Financeiro e de Automação ERP** (PHP, Oracle Database 12c, OCI8 com parametrização anti-SQL Injection, TOTVS Protheus, MySQL), além de triggers/procedures PL/SQL para conciliação contábil e relatórios de estoque que viabilizaram a conclusão do inventário corporativo em tempo recorde em 2025.
 - 🎓 **Formação Acadêmica:** Bacharelado em **Ciência de Dados** pela **UNIVESP** (*Universidade Virtual do Estado de São Paulo*).
 - ⚡ **Engenharia de Software & Versatilidade Técnica:**
-  - **Backend & Microsserviços:** Java 21 LTS, Spring Boot 3, Spring Security, resiliência distribuída com **Transactional Outbox Pattern**, Domain-Driven Design (DDD & Value Objects), **Terraform (IaC na AWS)**, mensageria orientada a eventos com RabbitMQ, Redis Sliding Window Cache e Docker.
+  - **Backend & Microsserviços:** C# / .NET 8 (ASP.NET Core Web API, Entity Framework Core, Dapper, LINQ, Clean Architecture), Java 21 LTS (Spring Boot 3, Spring Security), resiliência distribuída com **Transactional Outbox Pattern**, Domain-Driven Design (DDD & Value Objects), **Terraform (IaC na AWS)**, mensageria orientada a eventos com RabbitMQ, Redis Sliding Window Cache e Docker.
   - **Frontend & Web Moderna:** React 19, Next.js 16 (App Router), TypeScript, Tailwind CSS v4, Zustand com persistência seletiva, Zod e pirâmide de testes completa com **Vitest** e **Playwright (E2E)**.
   - **Ciência de Dados & MLOps:** Python (Scikit-learn, LightGBM, SHAP Explainable AI, Pandas), Web Scraping automatizado, APIs de inferência em tempo real com FastAPI + Pydantic v2, conteinerização Docker, IaC com Terraform na AWS e dashboards em Streamlit.
   - **Mobile Nativo & IA:** Kotlin 2.0 (Jetpack Compose, Clean Architecture + MVVM, Google Hilt DI, DataStore Preferences, Offline-First, P2P Nearby), Google MediaPipe Hands (Visão Computacional na GPU), Tone.js e integração de LLMs (Google Gemini API / FastAPI).
@@ -52,6 +52,10 @@
     <td width="50%" valign="top">
       <h4>⚙️ Backend & Microsserviços</h4>
       <div>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+        <img src="https://img.shields.io/badge/.NET_8_LTS-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 8" />
+        <img src="https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=flat-square" alt="EF Core" />
+        <img src="https://img.shields.io/badge/Dapper_(Micro--ORM)-005571?style=flat-square" alt="Dapper" />
         <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 21" />
         <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot 3" />
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
