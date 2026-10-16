@@ -22,7 +22,7 @@
 - 🎓 **Formação Acadêmica:** Bacharelado em **Ciência de Dados** pela **UNIVESP** (*Universidade Virtual do Estado de São Paulo*).
 - ⚡ **Engenharia de Software & Versatilidade Técnica:**
   - **Backend & Microsserviços:** C# / .NET 8 (ASP.NET Core Web API, Entity Framework Core, Dapper, LINQ, Clean Architecture), Java 21 LTS (Spring Boot 3, Spring Security), resiliência distribuída com **Transactional Outbox Pattern**, Domain-Driven Design (DDD & Value Objects), **Terraform (IaC na AWS)**, mensageria orientada a eventos com RabbitMQ, Redis Sliding Window Cache e Docker.
-  - **Frontend & Web Moderna:** React 19, Next.js 16 (App Router), TypeScript, Tailwind CSS v4, Zustand com persistência seletiva, Zod e pirâmide de testes completa com **Vitest** e **Playwright (E2E)**.
+  - **Frontend & Web Moderna:** Angular, React 19, Next.js 16 (App Router), TypeScript, Tailwind CSS v4, Zustand com persistência seletiva, Zod e pirâmide de testes completa com **Vitest** e **Playwright (E2E)**.
   - **Ciência de Dados & MLOps:** Python (Scikit-learn, LightGBM, SHAP Explainable AI, Pandas), Web Scraping automatizado, APIs de inferência em tempo real com FastAPI + Pydantic v2, conteinerização Docker, IaC com Terraform na AWS e dashboards em Streamlit.
   - **Mobile Nativo & IA:** Kotlin 2.0 (Jetpack Compose, Clean Architecture + MVVM, Google Hilt DI, DataStore Preferences, Offline-First, P2P Nearby), Google MediaPipe Hands (Visão Computacional na GPU), Tone.js e integração de LLMs (Google Gemini API / FastAPI).
 - 📈 **Bagagem Empreendedora & Visão de Negócio:** 5 anos de experiência liderando operação própria no e-commerce (**Mercadolíder** em menos de 1 ano), gerenciando precificação, análise de dados de vendas e relacionamento com clientes. Vivência prática que orienta cada linha de código para solucionar dores reais de negócio.
@@ -70,6 +70,7 @@
     <td width="50%" valign="top">
       <h4>🎨 Frontend & Web Moderna</h4>
       <div>
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
         <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React 19" />
